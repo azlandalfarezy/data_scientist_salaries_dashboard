@@ -6,7 +6,7 @@ Project consists of a simple Power BI visualization about data scientist annual 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>Excel</b> 
 - <b>Power BI Desktop</b>
 
 <h2>Environments Used </h2>
